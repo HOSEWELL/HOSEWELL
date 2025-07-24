@@ -22,7 +22,7 @@
 A collaborative project aimed at reducing environmental pollution by bridging the gap between **second-hand cloth sellers and recycling companies**.  
 We recognized that second-hand traders are one of the biggest contributors to textile waste and built a platform that promotes sustainable recycling.
 
-🛠️ Built with: `React`, `Firebase`, `Python`, `PostgreSQL`, `Tailwind CSS`  
+🛠️ Built with: `Next.js`, `Python`,`Django `,`PostgreSQL`, `Tailwind CSS`  
 🌐 Features: Real-time analytics, waste tracking, seller validation, recycling reports
 
 ---
