@@ -16,23 +16,13 @@
 
 ---
 
-## 🌱 Highlight Project
-
-### ♻️ Eco Threads – Tackling Textile Waste
-A collaborative project aimed at reducing environmental pollution by bridging the gap between **second-hand cloth sellers and recycling companies**.  
-We recognized that second-hand traders are one of the biggest contributors to textile waste and built a platform that promotes sustainable recycling.
-
-🛠️ Built with: `Next.js`, `Python`,`Django `,`PostgreSQL`, `Tailwind CSS`  
-🌐 Features: Real-time analytics, waste tracking, seller validation, recycling reports
-
----
-
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript (ES6+), Python, Dart  
-- **Frontend:** React, Next.js, Vite, Flutter  
-- **Backend:** Django, Firebase  
-- **Databases:** PostgreSQL, MySQL  
+- **Frontend:** React, Next.js, Vite
+- **Mobile:** Flutter Dart
+- **Backend:** Django, Nodejs  
+- **Databases:** PostgreSQL, MySQL , Firebase
 - **DevOps:** CI/CD Pipelines, GitHub Actions  
 - **Others:** Product Management, UX-Driven Design, Agile
 
