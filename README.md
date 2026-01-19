@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-🎓 I'm a software developer with a strong foundation in **JavaScript**, **Python**, and modern frameworks like **React**, **Next.js**, **Flutter**, and **Django**.  
-🔧 I'm also proficient in **DevOps (CI/CD pipelines)**, **Firebase**, **PostgreSQL**, and **MySQL**.  
+🎓 I'm a software developer with a strong foundation in **Java 8+**,**JavaScript**, **Python**, and modern frameworks like **React**, **Next.js**, **Flutter**,**Node.js**, and **Django**.  
+🔧 I'm also proficient in **DevOps (CI/CD pipelines)**,**PostgreSQL**, and **MySQL**.  
 🧠 I’m exploring **Machine Learning** and how it can empower ethical and sustainable tech solutions.
 
 💼 Outside of coding, I love taking lead on product strategies and collaborating across teams to deliver clean, user-friendly applications.
@@ -18,13 +18,13 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript (ES6+), Python, Dart  
+- **Languages:** Java 8+, JavaScript (ES6+), Python, Dart  
 - **Frontend:** React, Next.js, Vite
 - **Mobile:** Flutter Dart
 - **Backend:** Django, Nodejs  
 - **Databases:** PostgreSQL, MySQL , Firebase
 - **DevOps:** CI/CD Pipelines, GitHub Actions  
-- **Others:** Product Management, UX-Driven Design, Agile
+- **Others:** Product Management, UX-Driven Design, Agile, Clickup
 
 ---
 
