@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a software developer with a strong foundation in **Java 8+**,**JavaScript**, **Python**, and modern frameworks like **React**, **Next.js**, **Flutter**,**Node.js**, and **Django**.  
+🎓 I'm a software developer with a strong foundation in **Java 8+**, **JavaScript**, **Python**, and modern frameworks like **React**, **Next.js**, **Flutter**,**Node.js**, and **Django**.  
 🔧 I'm also proficient in **DevOps (CI/CD pipelines)**,**PostgreSQL**, and **MySQL**.  
 🧠 I’m exploring **Machine Learning** and how it can empower ethical and sustainable tech solutions.
 
