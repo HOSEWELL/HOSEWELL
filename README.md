@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a software developer with a strong foundation in **Java 8+**, **JavaScript**, **Python**, and modern frameworks like **React**, **Next.js**, **Flutter**,**Node.js**, and **Django**.  
+🎓 I'm a software developer with a strong foundation in **Java EE**, **JavaScript**, **Python**, and modern frameworks like **React**, **Next.js**, **Flutter**,**Node.js**, and **Django**.  
 🔧 I'm also proficient in **DevOps (CI/CD pipelines)**,**PostgreSQL**, and **MySQL**.  
 🧠 I’m exploring **Machine Learning** and how it can empower ethical and sustainable tech solutions.
 
@@ -22,14 +22,8 @@
 - **Frontend:** React, Next.js, Vite
 - **Mobile:** Flutter Dart
 - **Backend:** Django, Nodejs  
-- **Databases:** PostgreSQL, MySQL , Firebase
-- **DevOps:** CI/CD Pipelines, GitHub Actions  
+- **Databases:** PostgreSQL, MySQL , MongoDB, Firebase, ClickHouse
+- **DevOps:** Git, Gitlab, Github, Jenkins, Grafana, CI/CD Pipelines, CicleCI, gitlab-CI
 - **Others:** Product Management, UX-Driven Design, Agile, Clickup
 
 ---
-
-## 🔗 Connect with Me
-
-- 🌐 [My Portfolio](https://portfolio-psi-eight-77.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hosewell-karanja-47750a316/)
-- 📩 Email: hosewellkaranja@gmail.com
